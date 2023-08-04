@@ -5,10 +5,10 @@
 <p>The dataset was first pre-processed in R using dplyr and was converted in a single dataset which was used in Tableau.</p>
 <p>The dataset was taken from Kaggle. <a href="https://www.kaggle.com/datasets/ayushv322/indian-states-monthly-rainfall-from-1901-to-2017">link</a></p>
 <h2 id="dashboard">Dashboard</h2>
-<p><img src="https://imgur.com/aA70doE" alt="Dashboard"></p>
+<p><img src="https://i.imgur.com/aA70doE.png" alt="Dashboard"></p>
 <h2 id="example">Example</h2>
 <p>The below example is of Rainfall of Punjab State in the year 2002.
-<img src="https://drive.google.com/file/d/1ipmBr_LYfKe2WCSKtFRWL1pCKv0pHEfr/view?usp=drive_link" alt="Dashboard-Example"></p>
+<img src="https://i.imgur.com/pjLxr2j.png" alt="Dashboard-Example"></p>
 
 
 To interact with the dashboard download the zip file and open the Tableau file (named Project).
